@@ -124,13 +124,11 @@ button span, .mat-step-header .ng-star-inserted{
 .start-dates {
     display:none !important;
 }
- #date-and-time {
+#date-and-time {
     display:none !important;
 }
-.ticket-price.ng-star-inserted {
-    display: hidden;
-}
-.event-overview-pricing
+
+#pricing {
     display:none !important;
 }
 
