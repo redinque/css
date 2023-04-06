@@ -1,0 +1,9 @@
+.welcome.ng-star-inserted {
+    display: hidden;
+}
+  .start-dates {
+    display:none !important;
+  }
+  #date-and-time {
+    display:none !important;
+  }
