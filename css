@@ -1,0 +1,120 @@
+h1{
+	text-transform:uppercase;
+}
+
+/* Tabbed Styles */
+
+.page-event-details{
+	background-color:#142233;
+}
+
+.mat-tab-nav-bar .mat-primary .mat-ink-bar{
+	background-color:#FF7900;
+}
+
+/* Simple Styles */
+
+
+.content-container h1{
+	display:none!important;
+}
+
+.end-date.showIcon:before, .start-date.showIcon:before{
+	background-color:#F04E23!important;
+	border-color:#ff7900!important;
+}
+
+.mat-form-field-appearance-fill .mat-form-field-flex {
+    border-radius: 4px!important;
+    padding: 0.75em 0.75em 0 0.75em;
+    border-bottom: 0!important;
+    background-color: #FFF;
+    border: 3px solid rgba(207,212,216,1)!important;
+}
+
+.mat-form-field-underline{
+	display:none;
+}
+
+.ticket-icon{
+	color:#ff7900!important;
+}
+
+.mat-raised-button{
+	border-radius:0!important;
+	box-shadow:none!important;
+	background-color:#ff7900!important;
+	
+}
+
+.mat-raised-button:hover{
+	border-radius:0!important;
+	box-shadow:none!important;
+	background-color:#F04E23!important;
+	
+}
+
+.mat-raised-button[disabled]{
+	background-color:#ebebeb!important;
+}
+
+.mat-raised-button span{
+	color:#fff;text-transform:uppercase;
+}
+
+.mat-step-header .mat-step-label{
+	color:#fff!important;
+	text-transform:uppercase;font-weight:bold;
+}
+
+.overview{
+	justify-content: center!important;
+}
+
+.price{
+	margin:0!important;
+}
+
+.page-event-details .event-name{
+	font-weight:bold!important;
+	font-size:2em!important;
+}
+
+.details{
+	padding-top:0!important;
+}
+
+.bt-card, .cover-container{
+	border-radius:0!important;
+}
+
+
+
+
+.bt-card-header{
+	font-weight:bold!important;
+	color:#142233;
+}
+
+button span, .mat-step-header .ng-star-inserted{
+	font-weight:bold;
+}
+
+.mat-stepper-horizontal-line {
+    border-top-color: #ffffff2b;
+}
+
+.mat-step-header .mat-step-icon {
+    background-color: #ffffff2b;
+}
+
+.mat-step-header .mat-step-icon-selected{
+	background-color:#FF7900;
+	color:#FFF;
+}
+
+.mat-horizontal-stepper-header-container {
+    width: 360px!important;
+    padding-right: 0!important;
+    margin: auto!important;
+}
