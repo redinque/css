@@ -127,12 +127,10 @@ button span, .mat-step-header .ng-star-inserted{
  #date-and-time {
     display:none !important;
 }
-.bt-card-header {
+.ticket-price.ng-star-inserted {
     display: hidden;
 }
 .event-overview-pricing
     display:none !important;
 }
-.ng-star-inserted {
-    display: hidden;
-}
+
