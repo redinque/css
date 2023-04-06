@@ -118,3 +118,12 @@ button span, .mat-step-header .ng-star-inserted{
     padding-right: 0!important;
     margin: auto!important;
 }
+.welcome.ng-star-inserted {
+    display: hidden;
+}
+  .start-dates {
+    display:none !important;
+  }
+  #date-and-time {
+    display:none !important;
+  }
