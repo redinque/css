@@ -121,9 +121,18 @@ button span, .mat-step-header .ng-star-inserted{
 .welcome.ng-star-inserted {
     display: hidden;
 }
-  .start-dates {
+.start-dates {
     display:none !important;
-  }
-  #date-and-time {
+}
+ #date-and-time {
     display:none !important;
-  }
+}
+.bt-card-header {
+    display: hidden;
+}
+.event-overview-pricing
+    display:none !important;
+}
+.ng-star-inserted {
+    display: hidden;
+}
